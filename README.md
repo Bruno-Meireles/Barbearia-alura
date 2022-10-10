@@ -9,7 +9,7 @@ agenda com seus clientes.
    
 | :label: Tecnologias | java, html, css,  
 | :rocket: URL         |https://github.com/Bruno-Meireles/Barbearia-alura.git
-| :fire: Desafio     | https://cursos.alura.com.br/course/html5-css3-avancando-css
+| :fire: Desafio     | https://bruno-meireles.github.io/Barbearia-alura/
 
 <!--       ![Uploading cabelo+barba.jpg…]()           #vitrinedev  
        -->
